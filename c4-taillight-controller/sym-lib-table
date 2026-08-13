@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "RP2040") (type "KiCad") (uri "/Users/mtranfie/c4-taillight/libraries/ul_RP2040/KiCADv6/2026-08-12_23-12-01.kicad_sym") (options "") (descr ""))
+)
