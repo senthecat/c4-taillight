@@ -2015,7 +2015,7 @@
 	)
 	(sheet
 		(at 138.43 66.04)
-		(size 13.97 20.32)
+		(size 25.4 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2041,7 +2041,7 @@
 			)
 		)
 		(property "Sheetfile" "block_G_mcu.kicad_sch"
-			(at 138.43 86.9446 0)
+			(at 138.43 84.4046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
