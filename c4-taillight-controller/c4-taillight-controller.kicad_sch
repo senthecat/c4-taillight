@@ -2014,7 +2014,7 @@
 		)
 	)
 	(sheet
-		(at 138.43 66.04)
+		(at 166.37 73.66)
 		(size 25.4 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2030,7 +2030,7 @@
 		)
 		(uuid "ac24483d-ba71-4170-aebc-7751f83c97eb")
 		(property "Sheetname" "Block G MCU"
-			(at 138.43 65.3284 0)
+			(at 166.37 72.9484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2041,7 +2041,7 @@
 			)
 		)
 		(property "Sheetfile" "block_G_mcu.kicad_sch"
-			(at 138.43 84.4046 0)
+			(at 166.37 92.0246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
