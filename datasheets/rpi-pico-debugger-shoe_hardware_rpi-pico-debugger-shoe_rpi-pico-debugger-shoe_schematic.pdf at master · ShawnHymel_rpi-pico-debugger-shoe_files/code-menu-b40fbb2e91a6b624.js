@@ -1,0 +1,2 @@
+performance.mark("js-parse-end:code-menu-b40fbb2e91a6b624.js");
+export const __rspack_esm_id=57045;export const __rspack_esm_ids=[57045];export const __webpack_modules__={460156(){}};import{__webpack_require__ as e}from"./wp-runtime-194dd596c78e76f1.js";import*as s from"./code-menu-b40fbb2e91a6b624.js";e.C(s),e(e.s=460156);
