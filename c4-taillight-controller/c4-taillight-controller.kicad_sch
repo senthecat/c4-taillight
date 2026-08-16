@@ -2031,6 +2031,7 @@
 		(uuid "ac24483d-ba71-4170-aebc-7751f83c97eb")
 		(property "Sheetname" "Block G MCU"
 			(at 166.37 72.9484 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
