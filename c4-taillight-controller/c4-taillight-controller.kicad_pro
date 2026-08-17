@@ -661,7 +661,7 @@
         "uuid": "9b51997e-fe1e-4539-bed6-79e55e8c7cc2"
       }
     ],
-    "used_designators": "L1-3,PS1,R1,C1-13,Q1-2,#PWR1-13,D1-2,RN1,Y1,U1-2",
+    "used_designators": "L1-3,#PWR1-20,D1-2,PS1,Q1-2,R1,C1-13,RN1,Y1,U1-2,M1-2,J1-2,X2",
     "variants": []
   },
   "sheets": [
@@ -672,6 +672,10 @@
     [
       "ac24483d-ba71-4170-aebc-7751f83c97eb",
       "Block G MCU"
+    ],
+    [
+      "e8419832-a77f-4e3c-972b-0ffa99bbe70b",
+      "MCU"
     ]
   ],
   "text_variables": {},
