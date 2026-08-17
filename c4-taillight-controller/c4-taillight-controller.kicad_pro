@@ -670,12 +670,36 @@
       "Root"
     ],
     [
-      "ac24483d-ba71-4170-aebc-7751f83c97eb",
-      "Block G MCU"
+      "36c55ca7-e722-4870-831c-ca2e8e1f16d0",
+      "01-POWER"
     ],
     [
       "e8419832-a77f-4e3c-972b-0ffa99bbe70b",
-      "MCU"
+      "02-MCU"
+    ],
+    [
+      "c7f4c74f-66c8-4d03-b83c-61c631cff280",
+      "03-TRIGGER"
+    ],
+    [
+      "8000b480-692a-4948-bdba-1cf2b23faf5f",
+      "04-LAMP-DATA"
+    ],
+    [
+      "cff8a02a-67bb-489f-a32e-0e01a8ca5438",
+      "LAMP1"
+    ],
+    [
+      "092570c3-8e35-4cd4-9e7d-eecda7730e71",
+      "LAMP2"
+    ],
+    [
+      "7bc5e45a-0d0b-4f94-90a2-cf5b5935ca8c",
+      "LAMP3"
+    ],
+    [
+      "5d591b77-d956-4fdc-b590-877f05dcc263",
+      "LAMP4"
     ]
   ],
   "text_variables": {},
